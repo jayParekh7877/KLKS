@@ -1,0 +1,12 @@
+D:\My Demos\WpfDemos\Console_Generic\bin\Debug\Console_Generic.exe.config
+D:\My Demos\WpfDemos\Console_Generic\bin\Debug\Console_Generic.exe
+D:\My Demos\WpfDemos\Console_Generic\bin\Debug\Console_Generic.pdb
+D:\My Demos\WpfDemos\Console_Generic\obj\Debug\Console_Generic.csprojResolveAssemblyReference.cache
+D:\My Demos\WpfDemos\Console_Generic\obj\Debug\Console_Generic.exe
+D:\My Demos\WpfDemos\Console_Generic\obj\Debug\Console_Generic.pdb
+D:\MyData\My Demos\WpfDemos\Console_Generic\bin\Debug\Console_Generic.exe.config
+D:\MyData\My Demos\WpfDemos\Console_Generic\bin\Debug\Console_Generic.exe
+D:\MyData\My Demos\WpfDemos\Console_Generic\bin\Debug\Console_Generic.pdb
+D:\MyData\My Demos\WpfDemos\Console_Generic\obj\Debug\Console_Generic.csprojResolveAssemblyReference.cache
+D:\MyData\My Demos\WpfDemos\Console_Generic\obj\Debug\Console_Generic.exe
+D:\MyData\My Demos\WpfDemos\Console_Generic\obj\Debug\Console_Generic.pdb

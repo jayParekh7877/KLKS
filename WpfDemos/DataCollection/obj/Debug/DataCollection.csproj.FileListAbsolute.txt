@@ -1,0 +1,12 @@
+D:\My Demos\WpfDemos\DataCollection\bin\Debug\DataCollection.exe.config
+D:\My Demos\WpfDemos\DataCollection\bin\Debug\DataCollection.exe
+D:\My Demos\WpfDemos\DataCollection\bin\Debug\DataCollection.pdb
+D:\My Demos\WpfDemos\DataCollection\obj\Debug\DataCollection.csprojResolveAssemblyReference.cache
+D:\My Demos\WpfDemos\DataCollection\obj\Debug\DataCollection.exe
+D:\My Demos\WpfDemos\DataCollection\obj\Debug\DataCollection.pdb
+D:\MyData\My Demos\WpfDemos\DataCollection\bin\Debug\DataCollection.exe.config
+D:\MyData\My Demos\WpfDemos\DataCollection\bin\Debug\DataCollection.exe
+D:\MyData\My Demos\WpfDemos\DataCollection\bin\Debug\DataCollection.pdb
+D:\MyData\My Demos\WpfDemos\DataCollection\obj\Debug\DataCollection.exe
+D:\MyData\My Demos\WpfDemos\DataCollection\obj\Debug\DataCollection.pdb
+D:\MyData\My Demos\WpfDemos\DataCollection\obj\Debug\DataCollection.csprojResolveAssemblyReference.cache

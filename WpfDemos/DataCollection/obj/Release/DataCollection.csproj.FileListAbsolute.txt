@@ -1,0 +1,6 @@
+D:\My Demos\WpfDemos\DataCollection\bin\Release\DataCollection.exe.config
+D:\My Demos\WpfDemos\DataCollection\bin\Release\DataCollection.exe
+D:\My Demos\WpfDemos\DataCollection\bin\Release\DataCollection.pdb
+D:\My Demos\WpfDemos\DataCollection\obj\Release\DataCollection.exe
+D:\My Demos\WpfDemos\DataCollection\obj\Release\DataCollection.pdb
+D:\My Demos\WpfDemos\DataCollection\obj\Release\DataCollection.csprojResolveAssemblyReference.cache

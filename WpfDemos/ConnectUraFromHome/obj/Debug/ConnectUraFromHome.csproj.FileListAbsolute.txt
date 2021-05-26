@@ -1,0 +1,11 @@
+D:\My Demos\WpfDemos\ConnectUraFromHome\bin\Debug\ConnectUraFromHome.exe.config
+D:\My Demos\WpfDemos\ConnectUraFromHome\bin\Debug\ConnectUraFromHome.exe
+D:\My Demos\WpfDemos\ConnectUraFromHome\bin\Debug\ConnectUraFromHome.pdb
+D:\My Demos\WpfDemos\ConnectUraFromHome\obj\Debug\ConnectUraFromHome.exe
+D:\My Demos\WpfDemos\ConnectUraFromHome\obj\Debug\ConnectUraFromHome.pdb
+D:\MyData\My Demos\WpfDemos\ConnectUraFromHome\bin\Debug\ConnectUraFromHome.exe.config
+D:\MyData\My Demos\WpfDemos\ConnectUraFromHome\bin\Debug\ConnectUraFromHome.exe
+D:\MyData\My Demos\WpfDemos\ConnectUraFromHome\bin\Debug\ConnectUraFromHome.pdb
+D:\MyData\My Demos\WpfDemos\ConnectUraFromHome\obj\Debug\ConnectUraFromHome.csprojResolveAssemblyReference.cache
+D:\MyData\My Demos\WpfDemos\ConnectUraFromHome\obj\Debug\ConnectUraFromHome.exe
+D:\MyData\My Demos\WpfDemos\ConnectUraFromHome\obj\Debug\ConnectUraFromHome.pdb

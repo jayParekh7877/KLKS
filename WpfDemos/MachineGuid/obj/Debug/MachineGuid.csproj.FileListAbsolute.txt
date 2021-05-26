@@ -1,0 +1,10 @@
+D:\My Demos\WpfDemos\MachineGuid\bin\Debug\MachineGuid.exe.config
+D:\My Demos\WpfDemos\MachineGuid\bin\Debug\MachineGuid.exe
+D:\My Demos\WpfDemos\MachineGuid\bin\Debug\MachineGuid.pdb
+D:\My Demos\WpfDemos\MachineGuid\obj\Debug\MachineGuid.exe
+D:\My Demos\WpfDemos\MachineGuid\obj\Debug\MachineGuid.pdb
+D:\MyData\My Demos\WpfDemos\MachineGuid\bin\Debug\MachineGuid.exe.config
+D:\MyData\My Demos\WpfDemos\MachineGuid\bin\Debug\MachineGuid.exe
+D:\MyData\My Demos\WpfDemos\MachineGuid\bin\Debug\MachineGuid.pdb
+D:\MyData\My Demos\WpfDemos\MachineGuid\obj\Debug\MachineGuid.exe
+D:\MyData\My Demos\WpfDemos\MachineGuid\obj\Debug\MachineGuid.pdb

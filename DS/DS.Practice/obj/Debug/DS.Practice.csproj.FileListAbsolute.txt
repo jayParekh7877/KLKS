@@ -1,0 +1,7 @@
+D:\UserData\z003kuxx\OneDrive - Siemens AG\MyData\DS\DS\DS.Practice\bin\Debug\DS.Practice.exe.config
+D:\UserData\z003kuxx\OneDrive - Siemens AG\MyData\DS\DS\DS.Practice\bin\Debug\DS.Practice.exe
+D:\UserData\z003kuxx\OneDrive - Siemens AG\MyData\DS\DS\DS.Practice\bin\Debug\DS.Practice.pdb
+D:\UserData\z003kuxx\OneDrive - Siemens AG\MyData\DS\DS\DS.Practice\obj\Debug\DS.Practice.csprojAssemblyReference.cache
+D:\UserData\z003kuxx\OneDrive - Siemens AG\MyData\DS\DS\DS.Practice\obj\Debug\DS.Practice.csproj.CoreCompileInputs.cache
+D:\UserData\z003kuxx\OneDrive - Siemens AG\MyData\DS\DS\DS.Practice\obj\Debug\DS.Practice.exe
+D:\UserData\z003kuxx\OneDrive - Siemens AG\MyData\DS\DS\DS.Practice\obj\Debug\DS.Practice.pdb

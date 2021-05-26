@@ -1,0 +1,2 @@
+D:\My Demos\EventsAndDelegates_Update1\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+D:\MyData\My Demos\EventsAndDelegates_Update1\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
