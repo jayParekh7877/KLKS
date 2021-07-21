@@ -26,11 +26,16 @@ namespace MicroServices.Api.Search
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IProductService, ProductService>();
             services.AddScoped<ISearchService, SearchService>();
             services.AddScoped<IOrderService, OrderService>();
             services.AddHttpClient("OrderServices", config =>
             {
                 config.BaseAddress = new Uri(Configuration["Services:Orders"]);
+            });
+            services.AddHttpClient("ProductServices", config =>
+            {
+                config.BaseAddress = new Uri(Configuration["Services:Products"]);
             });
             services.AddControllers();
         }
